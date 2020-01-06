@@ -19,4 +19,8 @@ The codes and results for all three experiments is included in this repository.
 3. We implemented a dataloader and adjusted the code of GCN to apply onto the task
 
 ### Result
-_TO BE ADDED SOON_
+| Model     | RMSE     |
+| --------- | -------- |
+| AE        | 13.66    |
+| GCN       | 7.92     |
+| __STGCN__ | __4.82__ |
