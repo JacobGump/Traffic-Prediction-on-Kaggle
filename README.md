@@ -24,3 +24,6 @@ The codes and results for all three experiments is included in this repository.
 | AE        | 13.66    |
 | GCN       | 7.92     |
 | __STGCN__ | __4.82__ |
+
+![image](../images/result.png)
+prediction of the Auto-Encoder and the GCN
